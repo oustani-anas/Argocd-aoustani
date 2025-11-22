@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: wil-playground
-        image: wil42/playground:v1
+        image:  wil42/playground:v1
         # image: nginxdemos/hello:plain-text
         ports:
         - containerPort: 8888
